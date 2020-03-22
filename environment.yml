@@ -1,0 +1,9 @@
+name: FESE-Env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - ipywidgets
